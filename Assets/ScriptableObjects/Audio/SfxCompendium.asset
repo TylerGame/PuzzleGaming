@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772b167443094ad448cf659f50ab165d, type: 3}
+  m_Name: SfxCompendium
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: woodJunkPick
+    clip: {fileID: 8300000, guid: c0fdcdb8cf48fcc42b4ad93c36ea466d, type: 3}
+  - name: woodJunkDrop
+    clip: {fileID: 8300000, guid: 7d74db30fa8744540be96ef0371532d4, type: 3}
+  - name: pipeJunkPick
+    clip: {fileID: 8300000, guid: f68e1f0ab984eda42bf3a7b76b240fcd, type: 3}
+  - name: pipeJunkDrop
+    clip: {fileID: 8300000, guid: e50119e93ce1a464ba1a428f2c01b910, type: 3}
+  - name: nailsPick
+    clip: {fileID: 8300000, guid: 90e0e008bfc477b4b827b0fff6ec63a9, type: 3}
+  - name: nailsDrop
+    clip: {fileID: 8300000, guid: 79cf00c5d2cbf6b4990eee4ce9acdcf0, type: 3}
+  - name: mmsPick
+    clip: {fileID: 8300000, guid: 884c034336ff82d4d98ac25b66bc02f8, type: 3}
+  - name: mmsDrop
+    clip: {fileID: 8300000, guid: 0f2f4dbc3829ceb488f415bf4743ded6, type: 3}
+  - name: woodLogsPick
+    clip: {fileID: 8300000, guid: 201c21b96c294fc4e9328b3ed4a11d01, type: 3}
+  - name: woodLogsDrop
+    clip: {fileID: 8300000, guid: e5059b11d84d2644e9cbf57680f12dec, type: 3}
+  - name: woodPlankPick
+    clip: {fileID: 8300000, guid: 1d0459571186479468e47e5d6930638d, type: 3}
+  - name: woodPlankDrop
+    clip: {fileID: 8300000, guid: 811a4bc9a633f8c4cb2daa851b2505af, type: 3}
+  - name: softKnocks
+    clip: {fileID: 8300000, guid: 35bc2133cb35ffe40aa1fe009c9ca5f3, type: 3}
+  - name: heavyKnocks
+    clip: {fileID: 8300000, guid: 73d0de744d19d214f9e202ff55cb72c8, type: 3}
+  - name: pipeGunShot
+    clip: {fileID: 8300000, guid: c47babdb5f0bfd94a93dddad094107eb, type: 3}
+  - name: repairGasPipes
+    clip: {fileID: 8300000, guid: a3205f13c0b740b468ae3214da378bf6, type: 3}
+  - name: craftIronWoodTapes
+    clip: {fileID: 8300000, guid: f1c1255f9ad68094cbb1f7c04352d903, type: 3}
+  - name: openDresser
+    clip: {fileID: 8300000, guid: 75274d85790b63d448e0e390ec612edb, type: 3}
+  - name: closeDresser
+    clip: {fileID: 8300000, guid: cb5dd5ae5f703d045a332f889b4f7f71, type: 3}
+  - name: openStash
+    clip: {fileID: 8300000, guid: be7df6f110b698144b4bf62105ebf2f7, type: 3}
+  - name: closeStash
+    clip: {fileID: 8300000, guid: 7d76344d1432da74896b12230034c077, type: 3}
+  - name: doorDestroyed
+    clip: {fileID: 8300000, guid: d100fd8d106e3bd4789de66c52ed5780, type: 3}
+  - name: outsideContext
+    clip: {fileID: 8300000, guid: 0b8696a3ec42ccd47a14c60a0701f7ea, type: 3}
+  - name: gasLamp
+    clip: {fileID: 8300000, guid: c3881d5de6114c04d8dc7ef3bcdbea27, type: 3}
+  - name: bookPick
+    clip: {fileID: 8300000, guid: b1ba2a60855b08740ac7c72bfcc9910d, type: 3}
+  - name: bookDrop
+    clip: {fileID: 8300000, guid: f7ffaedf3b6f8454d893b33486f8d8ea, type: 3}
+  - name: paperPick
+    clip: {fileID: 8300000, guid: 4709449b55fbbf649918db7dd4f70a65, type: 3}
+  - name: paperDrop
+    clip: {fileID: 8300000, guid: 2a26f140f7f88f644ae3d719aacd4262, type: 3}
+  - name: sinLeafPick
+    clip: {fileID: 8300000, guid: 962c94d3c499f5a4daf0ca19f658f7e6, type: 3}
+  - name: sinLeafDrop
+    clip: {fileID: 8300000, guid: ae4b34218fa915b4ea4a7fadd4e2d6b2, type: 3}
+  - name: lockpickUnlock
+    clip: {fileID: 8300000, guid: 33d385f26e028c74c8025fb2b56995a0, type: 3}
+  - name: pouringTea
+    clip: {fileID: 8300000, guid: b7270ada4c954594bb02479683d63a17, type: 3}
+  - name: sinTeaPick
+    clip: {fileID: 8300000, guid: fb3801a7b0ee62d42b4a7f63b222852c, type: 3}
+  - name: sinTeaDrop
+    clip: {fileID: 8300000, guid: d48fe9f7db162ff438916ef57a6fc7ec, type: 3}
+  - name: pressureoMeterPick
+    clip: {fileID: 8300000, guid: b1f8d0b6c404ed2499a59096cd20588a, type: 3}
+  - name: pressureoMeterDrop
+    clip: {fileID: 8300000, guid: dd5af1b39e48b3f49ac36c61af401ed6, type: 3}
+  - name: unscrew
+    clip: {fileID: 8300000, guid: 686695ac6b3bdad46b5ba75f0e4108d1, type: 3}
+  - name: moveHeavyWardrobe
+    clip: {fileID: 8300000, guid: 0ff41394990a5a146b53ef343c6ee41c, type: 3}
+  - name: punchFace
+    clip: {fileID: 8300000, guid: 2031c97e582a8b54d9ac86ce503dfc0f, type: 3}
+  - name: gunFallWood
+    clip: {fileID: 8300000, guid: c583c8fd874ebc843994ee5ff57cbe5b, type: 3}
+  - name: rifleShot
+    clip: {fileID: 8300000, guid: 8df1ccd438eabce43a5d4713328c83bc, type: 3}
+  - name: bodyFall
+    clip: {fileID: 8300000, guid: ef3483e292f9f5c4c822b344de622c5a, type: 3}
+  - name: bodyFallBlood
+    clip: {fileID: 8300000, guid: 45dd439dc68daaa4babe073ed414d594, type: 3}
+  - name: chairRecycle
+    clip: {fileID: 8300000, guid: 63789d140473a3b42b3786f2314aaaa0, type: 3}
+  - name: lockpickPick
+    clip: {fileID: 8300000, guid: 99365d0bc9b5d234ca07eeb55d444012, type: 3}
+  - name: lockpickDrop
+    clip: {fileID: 8300000, guid: 6405861c275b74f489367740cf910749, type: 3}
+  - name: footsteps1
+    clip: {fileID: 8300000, guid: c26bcdb46dc5040469425ac1f4c2a7cd, type: 3}
+  - name: footsteps2
+    clip: {fileID: 8300000, guid: 623afab2b2fce384abadd7dace18f423, type: 3}
+  - name: footsteps3
+    clip: {fileID: 8300000, guid: 3e3f373d8d2d58f4c9ca4e4fb18462a1, type: 3}
+  - name: footstepsSoft1
+    clip: {fileID: 8300000, guid: ec756cf6d8ab3624cb6dfe220ebbd2d8, type: 3}
+  - name: footstepsSoft2
+    clip: {fileID: 8300000, guid: 4440d9bef8d8ac54cb238e6eeb9406d4, type: 3}
+  - name: footstepsSoft3
+    clip: {fileID: 8300000, guid: 0b67c8ee730887e4cb2c4035c52c1c4b, type: 3}
+  - name: footstepsSoft4
+    clip: {fileID: 8300000, guid: 00e85246f24db2444858b2182ab24b04, type: 3}
+  - name: footstepsHeavy1
+    clip: {fileID: 8300000, guid: 790546e67f4cc194bb964fe610c87630, type: 3}
+  - name: footstepsHeavy2
+    clip: {fileID: 8300000, guid: 1800e9f75fe83ac4c9e07533918ac6b7, type: 3}
+  - name: footstepsHeavy3
+    clip: {fileID: 8300000, guid: 2348f5d0938d2654f85dbfada510c166, type: 3}
+  - name: footstepsHeavy4
+    clip: {fileID: 8300000, guid: af1f95b4a05670347992673e09482bdc, type: 3}
+  - name: openInventory
+    clip: {fileID: 8300000, guid: b34d36b4b3019a84b83a9b1fcd2f0bd6, type: 3}
+  - name: closeInventory
+    clip: {fileID: 8300000, guid: 7e49cfa5f39aaf74ab6813ad9496810b, type: 3}
+  - name: continue1
+    clip: {fileID: 8300000, guid: fbab870b71344e2429a652ead09e3294, type: 3}
+  - name: continue2
+    clip: {fileID: 8300000, guid: 465d32e0db2dfe743ae3c337c05281ce, type: 3}
+  - name: continue3
+    clip: {fileID: 8300000, guid: 7030add9196e91b4d8ea0d3b410e7436, type: 3}
+  - name: feedbackChoice
+    clip: {fileID: 8300000, guid: 30597f0dae15a6948b658e64f8ef5873, type: 3}
+  - name: dialogueTab
+    clip: {fileID: 8300000, guid: c83c33fe31eda7c4691ef25a72068996, type: 3}
+  - name: axePick
+    clip: {fileID: 8300000, guid: 6ed2d15ce062a3e4e89442e823e34ebc, type: 3}
+  - name: axeDrop
+    clip: {fileID: 8300000, guid: 89825c6f982d79543b97bfd16617bdee, type: 3}
+  - name: footstepsLight1
+    clip: {fileID: 8300000, guid: debbc6343fee2d34588a88ccdee798e0, type: 3}
+  - name: footstepsLight2
+    clip: {fileID: 8300000, guid: 539efe4c976727942892ba56c684fa27, type: 3}
+  - name: footstepsHeavy21
+    clip: {fileID: 8300000, guid: ae12f7a11e403ea438e018071b3af374, type: 3}
+  - name: footstepsHeavy22
+    clip: {fileID: 8300000, guid: ed1da3f2560f4c44a99ac7e2c213bc6c, type: 3}
+  - name: clockworkMechanism
+    clip: {fileID: 8300000, guid: 664b71e21b95fbd41af287a3c5d18410, type: 3}
+  - name: recycleWood
+    clip: {fileID: 8300000, guid: 63789d140473a3b42b3786f2314aaaa0, type: 3}
+  - name: footstepWood1
+    clip: {fileID: 8300000, guid: a3d9460e8aea8864db216d34e0acd0bb, type: 3}
+  - name: footstepWood2
+    clip: {fileID: 8300000, guid: 79dd8808ca68eb44795d61b7f436b3b0, type: 3}
+  - name: footstepWood3
+    clip: {fileID: 8300000, guid: 411122c8241d2d141999402af3026c63, type: 3}
+  - name: copperKey
+    clip: {fileID: 8300000, guid: c7e5e6a9038129f4faa7e31dc29181d5, type: 3}
+  - name: firebreather
+    clip: {fileID: 8300000, guid: 804c28480b9baf2428e5457867a0fa55, type: 3}
+  - name: pipeHammer
+    clip: {fileID: 8300000, guid: 6ac6cc5b082895548ada12ff4ac7bdbf, type: 3}
+  - name: potteryMortar
+    clip: {fileID: 8300000, guid: f754f5cae43b7cd429eab1a28011f6a5, type: 3}
+  - name: pressureBooster
+    clip: {fileID: 8300000, guid: 750cc74ffaebf1245826994be861dba5, type: 3}
+  - name: scissors
+    clip: {fileID: 8300000, guid: 3571a0818d01a7c43811453d1153ed49, type: 3}
+  - name: sharpJunk
+    clip: {fileID: 8300000, guid: 20b29fdfb22bba24488b6eaec332c922, type: 3}
+  - name: vinyl
+    clip: {fileID: 8300000, guid: da74e9fab72cb2f4794f78c2410e8645, type: 3}
+  - name: thunder1
+    clip: {fileID: 8300000, guid: c5379e651a618e94884418e95d41dd97, type: 3}
+  - name: thunder2
+    clip: {fileID: 8300000, guid: 16c12213acd4ea940a8fa2f61cbcc63e, type: 3}
+  - name: thunder3
+    clip: {fileID: 8300000, guid: 8f54ebbf832258344a58ce18f771712c, type: 3}

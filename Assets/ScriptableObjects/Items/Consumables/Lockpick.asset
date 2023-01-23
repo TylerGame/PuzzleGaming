@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf09455ae58f8449a837f5f5fc82726, type: 3}
+  m_Name: Lockpick
+  m_EditorClassIdentifier: 
+  itemName: Grimaldello
+  itemCode: lockpick
+  itemIcon: {fileID: 21300000, guid: 8545f0325d6bc1345bcf20b5d9570589, type: 3}
+  itemDescription: "Il sogno di ogni Tagliaborse \xE8 di vivere in un mondo privo
+    di porte. Tuttavia, questo \xE8 il mondo reale e si deve pur lavorare in qualche
+    modo."
+  itemSymbol: 
+  itemSlots: 1
+  stackable: 1
+  itemCategory: 3
+  pickSound: lockpickPick
+  dropSound: lockpickDrop
+  itemLocalization:
+  - localizationLanguage: 0
+    itemName: Lock-Pick
+    itemDescription: The dream of every Thief is to live in a world without Doors.
+      This is a real world tho and Thieves still need to work.
+    itemSymbol: Lp
+  - localizationLanguage: 1
+    itemName: Grimaldello
+    itemDescription: "Il sogno di ogni Tagliaborse \xE8 di vivere in un mondo privo
+      di porte. Tuttavia, questo \xE8 il mondo reale e si deve pur lavorare in qualche
+      modo."
+    itemSymbol: Gm

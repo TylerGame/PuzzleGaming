@@ -1,0 +1,8 @@
+bk,tt,up	bk,tt,pw	bk,tt,pw	bk,tt,pw	bk,tt,up	bk,tt,pw	bk,tt,pw	bk,tt,pw
+bk,tt,up	bk,tt,up	cn,tt,pw	pt,tt,pw	bk,tt,up	bk,tt,up	cn,tt,pw	pt,tt,pw
+bk,tt,up	tn,tt,pw	pt,tt,pw	pt,tt,up	bk,tt,up	tn,tt,pw	pt,tt,pw	pt,tt,up
+bk,tt,up	bk,tt,up	bk,tt,pw	bk,tt,up	bk,tt,up	bk,tt,up	bk,tt,pw	bk,tt,up
+bk,tt,up	bk,tt,pw	bk,tt,pw	bk,tt,pw	bk,tt,up	bk,tt,pw	bk,tt,pw	bk,tt,pw
+bk,tt,up	bk,tt,up	cn,tt,pw	pt,tt,pw	bk,tt,up	bk,tt,up	cn,tt,pw	pt,tt,pw
+bk,tt,up	tn,tt,pw	pt,tt,pw	pt,tt,up	bk,tt,up	tn,tt,pw	pt,tt,pw	pt,tt,up
+bk,tt,up	bk,tt,up	bk,tt,pw	bk,tt,up	bk,tt,up	bk,tt,up	bk,tt,pw	bk,tt,up

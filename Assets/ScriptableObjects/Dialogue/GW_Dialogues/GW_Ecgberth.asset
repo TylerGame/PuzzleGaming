@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fb9bbf1a88be5f49af309b29e777029, type: 3}
+  m_Name: GW_Ecgberth
+  m_EditorClassIdentifier: 
+  entityName: Ecgberth
+  LocalizedDialogues:
+  - Language: 0
+    Dialogues:
+    - TextFile: {fileID: 4900000, guid: 2319059ff41c0c342830a4b7dbaf7e7d, type: 3}
+      scenesToLoadIn: 1001
+    - TextFile: {fileID: 4900000, guid: b500008be143fbb4e8ba1bf812c169f4, type: 3}
+      scenesToLoadIn: 1001
+  - Language: 1
+    Dialogues:
+    - TextFile: {fileID: 4900000, guid: 65a286dc8ddaaae4ba7112622fca589b, type: 3}
+      scenesToLoadIn: 1001
+    - TextFile: {fileID: 4900000, guid: 939afbddaca4ead47a275c84b8190939, type: 3}
+      scenesToLoadIn: 1001

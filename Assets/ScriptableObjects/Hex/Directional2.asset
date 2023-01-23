@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce3d373e6df289c44a2a908373aa0e41, type: 3}
+  m_Name: Directional2
+  m_EditorClassIdentifier: 
+  hexType: 13
+  hexGraphics:
+  - {fileID: 21300000, guid: 66af21f03bdce8840b982e22486c30cd, type: 3}
+  - {fileID: 21300000, guid: b378f5f0ac5c9bb46a5f2b64c61d55e0, type: 3}
+  neutralGraphics: {fileID: 21300000, guid: 66af21f03bdce8840b982e22486c30cd, type: 3}
+  positiveGraphics: {fileID: 21300000, guid: b378f5f0ac5c9bb46a5f2b64c61d55e0, type: 3}
+  negativeGraphics: {fileID: 0}
+  specialGraphics1: {fileID: 0}
+  specialGraphics2: {fileID: 0}
+  specialGraphics3: {fileID: 0}

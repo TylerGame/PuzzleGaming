@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fb9bbf1a88be5f49af309b29e777029, type: 3}
+  m_Name: GW_KitchenIsland(Dresser)
+  m_EditorClassIdentifier: 
+  entityName: KitchenIsland(Dresser)
+  LocalizedDialogues:
+  - Language: 0
+    Dialogues:
+    - TextFile: {fileID: 4900000, guid: 25a4191e5a10a724a8f649cdf0145e79, type: 3}
+      scenesToLoadIn: 1001
+  - Language: 1
+    Dialogues:
+    - TextFile: {fileID: 4900000, guid: b4a3a048f33ac414f97687149174c551, type: 3}
+      scenesToLoadIn: 1001

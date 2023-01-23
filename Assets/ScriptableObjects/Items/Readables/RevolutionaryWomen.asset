@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf09455ae58f8449a837f5f5fc82726, type: 3}
+  m_Name: RevolutionaryWomen
+  m_EditorClassIdentifier: 
+  itemName: "Book \u201CRevolutionary Women of D\u2019Oil: Naked and Undercover\u201D"
+  itemCode: revolutionaryWomen
+  itemIcon: {fileID: 21300000, guid: 9cb0bdbc5b77a29489eb226d80519473, type: 3}
+  itemDescription: 
+  itemSlots: 1
+  stackable: 0
+  itemCategory: 3
+  pickSound: bookPick
+  dropSound: bookDrop
+  itemLocalization:
+  - localizationLanguage: 0
+    itemName: "Book \u201CRevolutionary Women of D\u2019Oil: Naked and Undercover\u201D"
+    itemDescription: 
+  - localizationLanguage: 1
+    itemName: "Libro \u201CDonne Rivoluzionarie di D'oil, nude e sotto copertura\u201D"
+    itemDescription: 

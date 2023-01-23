@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772b167443094ad448cf659f50ab165d, type: 3}
+  m_Name: MusicCompendium
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: mainTheme
+    clip: {fileID: 8300000, guid: 92d2a51424dd30f47bd677274171a554, type: 3}
+  - name: ambientNight
+    clip: {fileID: 8300000, guid: 5c5ee707df091404eb446c918f9307c0, type: 3}
+  - name: wealdmaerDeath
+    clip: {fileID: 8300000, guid: a55bbab57e5e7cd4283ba8facd8e608e, type: 3}
+  - name: releaseTension
+    clip: {fileID: 8300000, guid: 78c98db93237333439c23bdd637dd262, type: 3}
+  - name: tension1
+    clip: {fileID: 8300000, guid: 4379d925943311d42880aea322a1f4b5, type: 3}
+  - name: tension2
+    clip: {fileID: 8300000, guid: 39796cc1b4b6e7041a70ad1763dc22e9, type: 3}
+  - name: tBased
+    clip: {fileID: 8300000, guid: a28e994ff0351a243b6043dbb6005b42, type: 3}
+  - name: drugEcgberth
+    clip: {fileID: 8300000, guid: 564ea280d6c63b44e90868498524e93e, type: 3}
+  - name: goodEnding
+    clip: {fileID: 8300000, guid: 78c98db93237333439c23bdd637dd262, type: 3}
+  - name: tBasedOld
+    clip: {fileID: 8300000, guid: faddbd2049efd7948a072ab100f91771, type: 3}

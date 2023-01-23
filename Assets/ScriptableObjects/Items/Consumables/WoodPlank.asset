@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf09455ae58f8449a837f5f5fc82726, type: 3}
+  m_Name: WoodPlank
+  m_EditorClassIdentifier: 
+  itemName: Wood Planks
+  itemCode: woodPlank
+  itemIcon: {fileID: 21300000, guid: 02fdd83e12598b04198e65f1727f047c, type: 3}
+  itemDescription: Useful to fortify Apartment 28 and hopefully, push back miasma's
+    leaks.
+  itemSymbol: Wp
+  itemSlots: 3
+  stackable: 1
+  itemCategory: 1
+  pickSound: woodPlankPick
+  dropSound: woodPlankDrop
+  itemLocalization:
+  - localizationLanguage: 0
+    itemName: Wood Planks
+    itemDescription: Useful to fortify Apartment 28 and hopefully, push back miasma's
+      leaks.
+    itemSymbol: Wp
+  - localizationLanguage: 1
+    itemName: Tavole di Legno
+    itemDescription: Utile per fortificare l'Appartamento 28 e, si spera, respingere
+      il miasma.
+    itemSymbol: Tl

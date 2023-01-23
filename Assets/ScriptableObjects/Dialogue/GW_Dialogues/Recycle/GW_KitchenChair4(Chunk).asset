@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fb9bbf1a88be5f49af309b29e777029, type: 3}
+  m_Name: GW_KitchenChair4(Chunk)
+  m_EditorClassIdentifier: 
+  entityName: KitchenChair4(Chunk)
+  LocalizedDialogues:
+  - Language: 0
+    Dialogues:
+    - TextFile: {fileID: 4900000, guid: 6784308a0232d1b44bcfda9345c76b9a, type: 3}
+      scenesToLoadIn: 1001
+  - Language: 1
+    Dialogues:
+    - TextFile: {fileID: 4900000, guid: 151aa3a25b9fbdf448b24e0955fb9e15, type: 3}
+      scenesToLoadIn: 1001

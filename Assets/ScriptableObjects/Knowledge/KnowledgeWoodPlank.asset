@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59585e2653ce6f9479f2b2518b5ca61d, type: 3}
+  m_Name: KnowledgeWoodPlank
+  m_EditorClassIdentifier: 
+  knowledgeCode: knowledgeWoodPlank
+  knowledgeKind: 0
+  knowledgeIcon: {fileID: 21300000, guid: 40debde350342544bb3488e8711e0984, type: 3}
+  craftedItem: {fileID: 11400000, guid: 8d4d8d7ffacfd034687bbdf75286109b, type: 2}
+  craftedAmount: 1
+  craftingIngredients:
+  - item: {fileID: 11400000, guid: 90bca6cc134fc97479de7acd5fbb0f53, type: 2}
+    amount: 5
+  - item: {fileID: 11400000, guid: d2bf4e908c7f20440a91e3af4d1949b9, type: 2}
+    amount: 10

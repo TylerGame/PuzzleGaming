@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf09455ae58f8449a837f5f5fc82726, type: 3}
+  m_Name: PressureBooster
+  m_EditorClassIdentifier: 
+  itemName: Pressure Booster
+  itemCode: pressureBooster
+  itemIcon: {fileID: 21300000, guid: 60a00fd044ccb4640b69052ffbc009d5, type: 3}
+  itemDescription: "Pressure's Hijacking is forbidden in Lundonstoch, Still Pipe\u2019s
+    maintenance is not that affordable for the Proletarian\u2019s Joint and this
+    is the main reason behind the boom of the Pipe\u2019s Asset & Service Black Market."
+  itemSymbol: Pb
+  itemSlots: 2
+  stackable: 0
+  itemCategory: 0
+  pickSound: pressureBooster
+  dropSound: pressureBooster
+  itemLocalization:
+  - localizationLanguage: 0
+    itemName: Pressure Booster
+    itemDescription: "Pressure's Hijacking is forbidden in Lundonstoch, Still Pipe\u2019s
+      maintenance is not that affordable for the Proletarian\u2019s Joint and this
+      is the main reason behind the boom of the Pipe\u2019s Asset & Service Black
+      Market."
+    itemSymbol: Pb
+  - localizationLanguage: 1
+    itemName: Modulatore di Pressione
+    itemDescription: "Potenziare autonomamente la Pressione \xE8 vietato a Lundonstoch,
+      tuttavia, la Manutenzione-Tubi non \xE8 cos\xEC abbordabile per il Proletariato
+      e questo \xE8 il motivo principale dietro il boom del mercato nero di pezzi
+      di ricambio per Tubistica condominiale."
+    itemSymbol: Mp

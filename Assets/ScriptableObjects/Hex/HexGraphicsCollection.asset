@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9596a49905ea0424b844a576b8805ad0, type: 3}
+  m_Name: HexGraphicsCollection
+  m_EditorClassIdentifier: 
+  hexGraphicsList:
+  - {fileID: 11400000, guid: 7ac0aba3fd046114986aafd9f2df2cb1, type: 2}
+  - {fileID: 11400000, guid: 56c4495846ca4ca4d96e8ff01ec6b32e, type: 2}
+  - {fileID: 11400000, guid: 9bcf97f3b18295447b5fdbf2a96bddfa, type: 2}
+  - {fileID: 11400000, guid: 70fe358049048d74baee734559d247bd, type: 2}
+  - {fileID: 11400000, guid: e09a9e9dd72244e428bc39326218bfcf, type: 2}
